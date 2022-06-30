@@ -1,3 +1,8 @@
+# linux
+
+sudo apt-get install zlib1g-dev
+sudo apt install nasm
+
 # ffmpeg的编译
 ```
 git clone https://github.com/nldzsz/ffmpeg-build-scripts.git
